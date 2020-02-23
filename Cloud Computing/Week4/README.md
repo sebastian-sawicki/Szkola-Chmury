@@ -106,9 +106,9 @@ curl --location --request GET "https://<storage-account>.blob.core.windows.net/p
 ```
 * Response in Postman:
 
-![REST](images/REST.png)
+![REST](images/REST-RESPONSE.png)
 ## 5. Storage Explorer
 
 [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
-![REST](images/StorageExplorer.png)
+![REST](images/Storage-Explorer.png)
